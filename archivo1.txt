@@ -1,0 +1,50 @@
+No: 1
+NC: 14401037
+Nombre: Vicente 
+Calificacion: 100
+
+No: 2
+NC: 14401037
+Nombre: Vicente 
+Calificacion: 100
+
+No: 3
+NC: 14401037
+Nombre: Vicente 
+Calificacion: 100
+
+No: 4
+NC: 14401037
+Nombre: Vicente 
+Calificacion: 100
+
+No: 5
+NC: 14401037
+Nombre: Vicente 
+Calificacion: 100
+
+No: 6
+NC: 14401037
+Nombre: Vicente 
+Calificacion: 100
+
+No: 7
+NC: 14401037
+Nombre: Vicente 
+Calificacion: 100
+
+No: 8
+NC: 14401037
+Nombre: Vicente 
+Calificacion: 100
+
+No: 9
+NC: 14401037
+Nombre: Vicente 
+Calificacion: 100
+
+No: 10
+NC: 14401037
+Nombre: Vicente 
+Calificacion: 100
+
